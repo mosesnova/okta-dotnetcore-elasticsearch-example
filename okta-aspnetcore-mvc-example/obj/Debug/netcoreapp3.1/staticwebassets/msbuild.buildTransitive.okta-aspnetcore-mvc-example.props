@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\okta-aspnetcore-mvc-example.props" />
+</Project>
