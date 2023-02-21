@@ -34,6 +34,7 @@ namespace okta_aspnetcore_mvc_example.Controllers
 
        [Authorize]
         [HttpPost]
+        //Modify
         public IActionResult Search(string searchText)
         {
             var response = searchClient.SearchOrder(searchText);

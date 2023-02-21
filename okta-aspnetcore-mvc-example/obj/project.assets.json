@@ -4022,11 +4022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\okta-dotnetcore-elasticsearch-example\\okta-aspnetcore-mvc-example\\okta-aspnetcore-mvc-example.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\okta-dotnetcore-elasticsearch-examplerev\\okta-aspnetcore-mvc-example\\okta-aspnetcore-mvc-example.csproj",
       "projectName": "okta-aspnetcore-mvc-example",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\okta-dotnetcore-elasticsearch-example\\okta-aspnetcore-mvc-example\\okta-aspnetcore-mvc-example.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\okta-dotnetcore-elasticsearch-examplerev\\okta-aspnetcore-mvc-example\\okta-aspnetcore-mvc-example.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\okta-dotnetcore-elasticsearch-example\\okta-aspnetcore-mvc-example\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\okta-dotnetcore-elasticsearch-examplerev\\okta-aspnetcore-mvc-example\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
